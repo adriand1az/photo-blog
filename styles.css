@@ -1,8 +1,20 @@
-html, body{
-    margin: 0;
-    padding: 0;
+
+img{
+    width: 30%;
+    height: 300px;
+    margin: calc(9%/6);
+    background-size: cover;
 }
-section{
-    height: 20%;
-    width: 20%;
+
+nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 1.7em;
+    font-weight: 800;
+    border-bottom: solid 2px grey;
+    width: 30%;
+    margin-left: calc(9%/6);
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
+    letter-spacing: 2px;
 }
