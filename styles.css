@@ -1,0 +1,8 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    height: 20%;
+    width: 20%;
+}
